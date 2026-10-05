@@ -25,20 +25,40 @@ The project focuses on employee details, departments, job roles, salaries, quali
 - **Leaves** – Employee leave records
 - **Payroll** – Payroll and payment information
 
-## Analysis
+## SQL Analysis
 
-Some of the questions I explored using SQL were:
+SQL queries were used to analyze different aspects of the organization, including:
 
-- How many employees are in the system?
-- Which departments have the most employees?
-- What is the average salary by department?
-- Who are the highest-paid employees?
-- Which job roles have the highest salaries?
-- Which employees have the most qualifications?
-- Which employees have taken the most leaves?
-- What is the total number of leave records?
-- What is the total payroll?
-- Which departments receive the highest bonuses?
+### Employee Analysis
+- Number of unique employees
+- Department-wise employee count
+- Average salary by department
+- Top 5 highest-paid employees
+- Total salary expenditure
+
+### Job & Department Analysis
+- Number of job roles in each department
+- Average salary by department
+- Highest-paying job roles
+- Total salary allocation by department
+
+### Qualification Analysis
+- Number of employees with qualifications
+- Positions requiring the most qualifications
+- Employees with the highest number of qualifications
+
+### Leave Analysis
+- Year-wise employee leave analysis
+- Average leaves by department
+- Employees taking the most leaves
+- Total leave days
+- Relationship between leave days and payroll
+
+### Payroll Analysis
+- Total monthly payroll
+- Average bonus by department
+- Total bonuses by department
+- Average payroll amount
 
 ## Tools Used
 
